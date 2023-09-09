@@ -30,19 +30,19 @@
     width: 20%;
     height: 1200px;
     background-color: rgb(255, 0, 0);
-
+    font-size: 22px;
 }
 .centro{
     width: 60%;
     height: 1200px;
     background-color: rgb(255, 255, 255);
-
+    font-size: 20px;
 }
 .derecho{
     width: 20%;
     height: 1200px;
     background-color: blue;
-
+    font-size: 22px;
 }
 .tegnologia{
     width: 120px;
