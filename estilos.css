@@ -14,7 +14,7 @@
     background-image: url("Medellin.jpg");
     
     background-repeat: no-repeat;
-    
+     ;
     }
     
     
@@ -57,7 +57,7 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(255, 255, 255);
     
      
     
@@ -96,7 +96,7 @@
     
     margin-right:5px;
     
-    background-image: url("h.jpg");
+    background-image: url("circuitos\ electricos.jpg");
     
     }
     
@@ -113,4 +113,9 @@
     
     
     }
-         
+        
+    .encabezado{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    }
